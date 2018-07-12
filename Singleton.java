@@ -21,3 +21,5 @@ public class Singleton {
 	}
 }
 asdasd
+
+asdfasdf

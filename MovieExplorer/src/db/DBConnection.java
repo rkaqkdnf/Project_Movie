@@ -11,6 +11,7 @@ public class DBConnection {
 	public DBConnection() {
 		
 	}
+	
 	public static void initConnect() {
 		try {
 			Class.forName("oracle.jdbc.driver.OracleDriver");
